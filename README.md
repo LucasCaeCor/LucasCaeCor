@@ -1,9 +1,10 @@
 # 🧒🏽 Lucas Caetano
-<br>
+<br><br>
 **`Desenvolvedor FullStack`**
 <br>
-Me Chamo Lucas Caetano Cordeiro, tenho 27 Anos sou natural do estado do Paraná. Atualmente, estou cursando Analise e desenvolvimento de Sistemas no IFPR. Desde Criança tenho afinidade com tecnologias, tenho facilidade no aprendizado rapido com estas.
 <br>
+Me Chamo Lucas Caetano Cordeiro, tenho 27 Anos sou natural do estado do Paraná. Atualmente, estou cursando Analise e desenvolvimento de Sistemas no IFPR. Desde Criança tenho afinidade com tecnologias, tenho facilidade no aprendizado rapido com estas.
+<br><br>
 <p align="left">
     <a href="https://github.com/LucasCaeCor?tab=followers">
         <img 
@@ -23,7 +24,7 @@ Me Chamo Lucas Caetano Cordeiro, tenho 27 Anos sou natural do estado do Paraná.
 ---
 
 ###  Linguagens e Tecnologias
-
+<br><br>
 <img 
     align="left" 
     alt="HTML"
@@ -141,6 +142,8 @@ Me Chamo Lucas Caetano Cordeiro, tenho 27 Anos sou natural do estado do Paraná.
 <br/>
 
 ### 📊 Estatísticas
+
+<br><br>
 
 <p>
   <img 
