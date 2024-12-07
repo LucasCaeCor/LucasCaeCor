@@ -14,9 +14,7 @@ Olá! Sou Lucas Caetano, paranaense, e estudante de Análise e Desenvolvimento d
     <a href="https://www.linkedin.com/in/seu-linkedin/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-</p>
 
----
 
 ### 🚀 Tecnologias que Uso
 <!-- Aqui seguem os ícones, como no exemplo original -->
