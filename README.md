@@ -5,28 +5,14 @@
 Me Chamo Lucas Caetano Cordeiro, tenho 27 Anos sou natural do estado do Paraná. Atualmente, estou cursando Analise e desenvolvimento de Sistemas no IFPR. Desde Criança tenho afinidade com tecnologias, tenho facilidade no aprendizado rapido com estas.
 <br>
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/LucasCaeCor?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/LucasCaeCor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@o_luran?">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@o_luran?">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/LucasCaeCor?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
