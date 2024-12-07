@@ -11,7 +11,7 @@ Olá! Sou Lucas Caetano, paranaense, e estudante de Análise e Desenvolvimento d
     <a href="https://github.com/LucasCaeCor?tab=followers">
         <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/LucasCaeCor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
-    <a href="linkedin.com/in/lucasccordeiro">
+    <a href="https://www.linkedin.com/in/lucasccordeiro/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 
