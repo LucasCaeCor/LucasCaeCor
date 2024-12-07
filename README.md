@@ -25,13 +25,6 @@ Olá! Sou Lucas Caetano, paranaense, e estudante de Análise e Desenvolvimento d
 
 ### 📊 Minhas Estatísticas
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<br><br>
-
 <p>
   <img 
     align="left" 
