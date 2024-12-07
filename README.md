@@ -1,27 +1,35 @@
-# 🧒🏽 Lucas Caetano
-<br><br>
-**`Desenvolvedor FullStack`**
-<br>
-<br>
-Me Chamo Lucas Caetano Cordeiro, tenho 27 Anos sou natural do estado do Paraná. Atualmente, estou cursando Analise e desenvolvimento de Sistemas no IFPR. Desde Criança tenho afinidade com tecnologias, tenho facilidade no aprendizado rapido com estas.
-<br><br>
+# 🧑🏽‍💻 Lucas Caetano Cordeiro
+
+**`Desenvolvedor FullStack | Criando Soluções com Paixão`**
+
+Olá! Sou Lucas Caetano, paranaense, e estudante de Análise e Desenvolvimento de Sistemas no IFPR. Desde jovem, a tecnologia me fascinava, e essa paixão se transformou em minha carreira. Sou autodidata, sempre em busca de novos desafios e aprendizados.
+
+---
+
+### 🌐 Conecte-se Comigo:
 <p align="left">
     <a href="https://github.com/LucasCaeCor?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucasCaeCor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/LucasCaeCor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
-    <a href="https://github.com/LucasCaeCor?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LucasCaeCor?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <a href="https://www.linkedin.com/in/seu-linkedin/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
+
 ---
+
+### 🚀 Tecnologias que Uso
+<!-- Aqui seguem os ícones, como no exemplo original -->
+
+---
+
+### 📊 Minhas Estatísticas
+
+<p>
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=LucasCaeCor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCaeCor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
+
 
 ###  Linguagens e Tecnologias
 <br><br>
