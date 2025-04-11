@@ -1,8 +1,8 @@
 # 🧑🏾‍💻 Lucas Caetano Cordeiro
 
-**`Desenvolvedor FullStack | Criando Soluções com Paixão`**
+**`Desenvolvedor FullStack`**
 
-Olá! Sou Lucas Caetano, paranaense, e estudante de Análise e Desenvolvimento de Sistemas no IFPR. Desde jovem, a tecnologia me fascinava, e essa paixão se transformou em minha carreira. Sou autodidata, sempre em busca de novos desafios e aprendizados.
+Olá! Sou Lucas Caetano, paranaense, e estudante de Análise e Desenvolvimento de Sistemas no IFPR. Sou autodidata, sempre em busca de novos desafios e aprendizados.
 
 ---
 
