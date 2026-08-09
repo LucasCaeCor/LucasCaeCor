@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Lucas Caetano, paranaense, e estudante de Análise e Desenvolvimento de Sistemas no IFPR. Sou autodidata, sempre em busca de novos desafios e aprendizados.
+Olá! Sou Lucas Caetano, paranaense, Formado em Analise e Desenvolvimento de Sistemas, sempre em busca de novos desafios e aprendizados.
 
 ---
 
