@@ -1,58 +1,197 @@
-# 🧑🏾‍💻 Lucas Caetano Cordeiro
+# Lucas Caetano Cordeiro
 
-**`Desenvolvedor FullStack`**
+### Desenvolvedor Full Stack
 
-Olá! Sou Lucas Caetano, paranaense, Formado em Analise e Desenvolvimento de Sistemas, sempre em busca de novos desafios e aprendizados.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo no desenvolvimento de aplicações web completas, trabalhando desde a interface até APIs, banco de dados, autenticação, integrações e deploy.
+
+Tenho foco em construir soluções para problemas reais, buscando unir **boa experiência para o usuário, organização de código, segurança e funcionalidade**.
+
+Atualmente, venho desenvolvendo projetos envolvendo **e-commerce, sistemas de pedidos, APIs REST, pagamentos, automação e segurança de aplicações web**.
 
 ---
 
-### 🌐 Conecte-se Comigo:
-<p align="left">
-    <a href="https://github.com/LucasCaeCor?tab=followers">
-        <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/LucasCaeCor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/lucasccordeiro/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</p>
+## 🛠️ Stack
 
-<br><br>
-🚀 Tecnologias que Uso
-<div align="left"> 
-    <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
-    <img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-    <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-    <img alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
-    <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
-    <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-    <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-    <img alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-    <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
-    <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-    <img alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+### Frontend
+
+<div align="left">
+  <img alt="React" title="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  &nbsp;
+  <img alt="TypeScript" title="TypeScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;
+  <img alt="HTML" title="HTML5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;
+  <img alt="CSS" title="CSS3" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
-<br><br>
+<br>
 
-### 📊 Minhas Estatísticas
+### Backend
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-[    src="https://github-readme-stats.vercel.app/api?username=LucasCaeCor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800&token=SEU_TOKEN_AQUI" 
-](https://github-readme-stats.vercel.app/api?username=LucasCaeCor&show_icons=true&theme=tokyonight
-)  />
-
-  <img 
-    align="left" 
-    alt="GitHub Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCaeCor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800&token=SEU_TOKEN_AQUI" 
-  />
-</p>
+<div align="left">
+  <img alt="Node.js" title="Node.js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  &nbsp;
+  <img alt="TypeScript" title="TypeScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  &nbsp;
+  <img alt="Fastify" title="Fastify" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
+  &nbsp;
+  <img alt="Python" title="Python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
 <br>
+
+### Banco de dados
+
+<div align="left">
+  <img alt="MongoDB" title="MongoDB" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  &nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  &nbsp;
+  <img alt="MySQL" title="MySQL" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
+
+<br>
+
+### Ferramentas e infraestrutura
+
+<div align="left">
+  <img alt="Git" title="Git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;
+  <img alt="GitHub" title="GitHub" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  &nbsp;
+  <img alt="Docker" title="Docker" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  &nbsp;
+  <img alt="Prisma" title="Prisma" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  &nbsp;
+  <img alt="Figma" title="Figma" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+
+---
+
+# 🚀 Projetos em destaque
+
+## 🍔 Mesa IV
+
+Sistema completo para gerenciamento e venda online de produtos de uma hamburgueria.
+
+A aplicação foi desenvolvida pensando tanto na experiência do cliente quanto na administração do estabelecimento, incluindo fluxo de pedidos, pagamentos e gerenciamento do cardápio.
+
+**Principais funcionalidades:**
+
+* Catálogo de produtos e categorias
+* Carrinho e checkout
+* Pedidos online
+* Área administrativa
+* Gerenciamento de produtos e pedidos
+* Pagamentos via PIX
+* Integração com Mercado Pago
+* Cálculo de entrega
+* Autenticação e mecanismos adicionais de segurança
+* Backend e frontend independentes
+* Deploy em ambiente de produção
+
+**Tecnologias:**
+`React` `TypeScript` `Node.js` `Fastify` `MongoDB` `Prisma`
+
+🌐 **Projeto:** [mesaiv.online](https://www.mesaiv.online)
+
+💻 **Repositório:** [github.com/LucasCaeCor/mesa4](https://github.com/LucasCaeCor/mesa4)
+
+---
+
+## 🛍️ LS Street
+
+E-commerce desenvolvido com arquitetura separada entre frontend e backend, permitindo gerenciamento de produtos, usuários, pedidos e pagamentos.
+
+O projeto foi criado com foco em uma estrutura semelhante a uma aplicação comercial real.
+
+**Principais funcionalidades:**
+
+* Cadastro e autenticação de usuários
+* Catálogo de produtos
+* Categorias e variações
+* Carrinho de compras
+* Endereços de entrega
+* Checkout
+* Pedidos
+* Controle de estoque
+* Pagamentos via PIX
+* Upload e gerenciamento de imagens
+* Dashboard administrativo
+* API REST
+
+**Tecnologias:**
+`React` `TypeScript` `Fastify` `MongoDB` `Prisma` `Cloudinary`
+
+💻 **Repositório:** [github.com/LucasCaeCor/LS-STREET](https://github.com/LucasCaeCor/LS-STREET)
+
+---
+
+## 🛡️ ARC
+
+Plataforma voltada para **análise automatizada de segurança em aplicações web**.
+
+O projeto realiza verificações em aplicações e APIs buscando configurações inseguras, exposições e problemas que podem aumentar a superfície de ataque de um sistema.
+
+**Algumas das análises realizadas:**
+
+* Content Security Policy
+* Configurações de CORS
+* Proteção contra Clickjacking
+* MIME Sniffing
+* Referrer Policy
+* Permissions Policy
+* Headers HTTP de segurança
+* Análise de endpoints
+* Verificações automatizadas em aplicações web
+* Geração de findings de segurança
+
+O objetivo do projeto é facilitar a identificação de problemas antes que eles se tornem vulnerabilidades exploráveis.
+
+**Tecnologias:**
+`TypeScript` `Node.js` `MongoDB` `Docker`
+
+💻 **Repositório:** [github.com/LucasCaeCor/ARC](https://github.com/LucasCaeCor/ARC)
+
+---
+
+# 📊 GitHub
+
+<p align="left">
+  <img
+    alt="Estatísticas do GitHub"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=LucasCaeCor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+<img
+ alt="Linguagens mais utilizadas"
+ height="180"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCaeCor&theme=tokyonight&layout=compact&langs_count=8&custom_title=Tecnologias"
+/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/lucasccordeiro/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://github.com/LucasCaeCor?tab=followers">
+  <img
+    src="https://custom-icon-badges.demolab.com/github/followers/LucasCaeCor?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    alt="Seguidores no GitHub"
+  />
+</a>
+
+</p>
