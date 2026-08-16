@@ -125,6 +125,8 @@ O projeto foi criado com foco em uma estrutura semelhante a uma aplicação come
 **Tecnologias:**
 `React` `TypeScript` `Fastify` `MongoDB` `Prisma` `Cloudinary`
 
+🌐 **Projeto:** [ls-street](https://ls-street.vercel.app/)
+
 💻 **Repositório:** [github.com/LucasCaeCor/LS-STREET](https://github.com/LucasCaeCor/LS-STREET)
 
 ---
@@ -157,41 +159,45 @@ O objetivo do projeto é facilitar a identificação de problemas antes que eles
 
 ---
 
-# 📊 GitHub
+## 📊 GitHub
 
-<p align="left">
-  <img
-    alt="Estatísticas do GitHub"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=LucasCaeCor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<div align="left">
 
 <img
- alt="Linguagens mais utilizadas"
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCaeCor&theme=tokyonight&layout=compact&langs_count=8&custom_title=Tecnologias"
+src="https://github-readme-stats.vercel.app/api?username=LucasCaeCor&show_icons=true&theme=tokyonight&locale=pt-br"
+alt="Estatísticas do GitHub"
 />
 
-</p>
+<br><br>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCaeCor&theme=tokyonight&layout=compact&langs_count=8"
+alt="Linguagens mais utilizadas"
+/>
+
+</div>
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
-<p align="left">
+<div align="left">
 
-<a href="https://www.linkedin.com/in/lucasccordeiro/" target="_blank">
+<a href="https://www.linkedin.com/in/lucasccordeiro/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-Lucas%20Caetano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="https://github.com/LucasCaeCor?tab=followers">
+<a href="https://github.com/LucasCaeCor">
   <img
-    src="https://custom-icon-badges.demolab.com/github/followers/LucasCaeCor?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    alt="Seguidores no GitHub"
+    src="https://img.shields.io/badge/GitHub-LucasCaeCor-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
+
+</div>
+
 
 </p>
