@@ -159,25 +159,7 @@ O objetivo do projeto é facilitar a identificação de problemas antes que eles
 
 ---
 
-## 📊 GitHub
 
-<div align="left">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=LucasCaeCor&show_icons=true&theme=tokyonight&locale=pt-br"
-alt="Estatísticas do GitHub"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCaeCor&theme=tokyonight&layout=compact&langs_count=8"
-alt="Linguagens mais utilizadas"
-/>
-
-</div>
-
----
 
 ## 📫 Contato
 
@@ -190,12 +172,7 @@ alt="Linguagens mais utilizadas"
   />
 </a>
 
-<a href="https://github.com/LucasCaeCor">
-  <img
-    src="https://img.shields.io/badge/GitHub-LucasCaeCor-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+
 
 </div>
 
